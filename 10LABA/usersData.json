@@ -1,0 +1,24 @@
+[
+    {
+        "atribute": 1,
+        "password": "Kladman",
+        "id": 1,
+        "name": "Admin",
+        "surname": "Adminovich",
+        "patronymic": "fuf",
+        "start": {
+            "date": 22,
+            "year": 1999,
+            "month": 11
+        },
+        "passport": {
+            "serial": 41111,
+            "number": 214214
+
+        },
+        "post": "2512@gmail.com",
+        "salary": 15000,
+        "privID": 1
+
+    }
+]

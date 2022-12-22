@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pEIAza4npZg/q9A02IIan/w7v+FDduNAWusEE9NdcU2MzvT5MTGY8bkxicewarmPgJD42QogGtUpCXBCvJPK6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LASHA\\Desktop\\10 лаба\\Магазин\\Магазин.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LASHA\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

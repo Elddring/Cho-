@@ -1,0 +1,17 @@
+C:\Users\LASHA\Desktop\10 лаба\Магазин\bin\Debug\net6.0\Магазин.exe
+C:\Users\LASHA\Desktop\10 лаба\Магазин\bin\Debug\net6.0\Магазин.deps.json
+C:\Users\LASHA\Desktop\10 лаба\Магазин\bin\Debug\net6.0\Магазин.runtimeconfig.json
+C:\Users\LASHA\Desktop\10 лаба\Магазин\bin\Debug\net6.0\Магазин.dll
+C:\Users\LASHA\Desktop\10 лаба\Магазин\bin\Debug\net6.0\Магазин.pdb
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\Магазин.csproj.AssemblyReference.cache
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\Магазин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\Магазин.AssemblyInfoInputs.cache
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\Магазин.AssemblyInfo.cs
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\Магазин.csproj.CoreCompileInputs.cache
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\Магазин.dll
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\refint\Магазин.dll
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\Магазин.pdb
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\Магазин.genruntimeconfig.cache
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\ref\Магазин.dll
+C:\Users\LASHA\Desktop\10 лаба\Магазин\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LASHA\Desktop\10 лаба\Магазин\obj\Debug\net6.0\Магазин.csproj.CopyComplete
